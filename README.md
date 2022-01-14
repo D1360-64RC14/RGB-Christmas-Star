@@ -28,7 +28,6 @@ Uma estrela de Natal 3D feita para ser colocada em cima da sua árvore de Natal.
 <img center height="200" alt="Face traseira da estrela Master" src="images/master_back.png"></img>
 <img center height="200" alt="Face frontal da estrela Slave" src="images/slave_front.png"></img>
 <img center height="200" alt="Face traseira da estrela Slave" src="images/slave_back.png"></img>
-<img center height="200" alt="Face traseira da estrela Slave" src="images/slave_back.png"></img>
 
 #[JuliaLabs](https://twitch.tv/julialabs)PCBChallenge, #XMas2021
 
