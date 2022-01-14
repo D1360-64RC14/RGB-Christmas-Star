@@ -1,0 +1,10 @@
+# Backup folders
+pcb_challenge-master-backups/
+pcb_challenge-slave-backups/
+
+# UI state
+pcb_challenge-master.kicad_prl
+pcb_challenge-slave.kicad_prl
+
+# Cache
+fp-info-cache

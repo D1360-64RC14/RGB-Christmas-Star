@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="star.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="734.33037"
+     inkscape:cy="697.20727"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-center="true" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       id="path1532"
+       style="opacity:1;fill:none;fill-opacity:0.972055;stroke:#ffffff;stroke-width:0.196908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.519253,3.9827526 36.282022,30.804312 6.679591,35.105847 c -2.4734387,0.359416 -3.1567411,2.46379 -1.3665994,4.208751 L 26.732734,60.193734 21.676067,89.67523 c -0.422769,2.464825 1.367449,3.764979 3.579792,2.601885 L 50.940558,78.773995 V 54.648853 h 1.584399 v 24.125142 l 25.684027,13.50256 c 2.212922,1.163364 4.002638,-0.13749 3.580003,-2.601875 L 76.732781,60.193734 98.151315,39.315776 c 1.791708,-1.746483 1.107601,-3.850595 -1.366118,-4.210037 L 67.183495,30.804312 53.946431,3.9830936 C 52.83892,1.7390178 50.626389,1.7394498 49.519253,3.9828286 Z"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       id="path1532-36"
+       style="fill:none;fill-opacity:0.972055;stroke:#ff4343;stroke-width:0.182417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.062212,4.6139113 37.386344,32.324281 6.8054832,36.767997 c -0.749551,0.10892 -0.956638,0.74663 -0.414174,1.27541 l 22.1282578,21.56977 -5.224047,30.45736 c -0.128042,0.746517 0.414455,1.140534 1.084994,0.788037 l 24.897068,-13.089107 8e-6,-24.78358 h 4.910339 v 24.78359 l 24.896828,13.088737 c 0.67042,0.352447 1.21279,-0.0418 1.08472,-0.788407 l -5.22352,-30.45664 22.12842,-21.56994 c 0.54238,-0.52869 0.33508,-1.16632 -0.41459,-1.27527 L 66.079169,32.324279 52.403182,4.6137003 c -0.335206,-0.6792097 -1.005691,-0.6791047 -1.34097,2.11e-4 z"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       id="path1532-36-3"
+       style="fill:none;fill-opacity:0.972055;stroke:#ff4343;stroke-width:0.182417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.00833,203.39252 -13.675868,27.71037 -30.5808607,4.44372 c -0.749551,0.10892 -0.956638,0.74663 -0.414174,1.27541 l 22.1282577,21.56977 -5.224047,30.45736 c -0.128042,0.74651 0.414455,1.14053 1.084994,0.78803 l 24.897068,-13.0891 8e-6,-24.78358 h 4.910339 v 24.78359 l 24.896828,13.08873 c 0.67042,0.35245 1.21279,-0.0418 1.08472,-0.7884 l -5.22352,-30.45664 22.128415,-21.56994 c 0.54238,-0.52869 0.33508,-1.16632 -0.414585,-1.27527 L 69.025287,231.10289 55.3493,203.39231 c -0.335206,-0.67921 -1.005691,-0.6791 -1.34097,2.1e-4 z"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       id="path1532-3"
+       style="opacity:1;fill:none;fill-opacity:0.972055;stroke:#ffffff;stroke-width:0.196908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.63735,5.6600108 -12.44512,25.2166562 -29.60135,4.301377 c -2.47398,0.359494 -3.15776,2.464014 -1.36755,4.209036 l 21.41961,20.879006 -5.05625,29.481283 c -0.42259,2.463985 1.36763,3.764623 3.58044,2.601277 l 26.47584,-13.919327 26.47636,13.91938 4.42563,2.326666 -0.84528,-4.928049 -5.05669,-29.48123 21.41963,-20.879056 c 1.79017,-1.744983 1.10636,-3.849492 -1.36763,-4.208994 L 175.0937,30.876667 162.64857,5.6599817 c -1.1067,-2.2424284 -2.2134,-1.9848697 -2.2134,0.5151199 V 54.721206 h -1.5844 l 10e-6,-48.5461546 c -10e-6,-2.4999632 -1.10673,-2.7574848 -2.21343,-0.5150406 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       id="path1532-3-1"
+       style="fill:none;fill-opacity:0.972055;stroke:#ff4343;stroke-width:0.173341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.51673,9.6751226 -11.22018,22.7215204 -30.58333,4.43398 c -0.74957,0.10881 -0.95676,0.74649 -0.41438,1.27537 l 22.13093,21.57951 -5.2304,30.45857 c -0.12808,0.74652 0.4144,1.14055 1.08495,0.78808 l 27.35865,-14.38161 27.35218,14.38678 c 0.67035,0.35259 1.2128,-0.0415 1.0849,-0.78816 l -5.22394,-30.46364 22.13508,-21.56733 c 0.54238,-0.52869 0.33508,-1.16632 -0.41459,-1.27527 l -30.58724,-4.4463 -11.2208,-22.7359304 c -0.3352,-0.67922 -0.67042,-0.60064 -0.67042,0.15715 l 0,46.5663404 -4.91035,-3e-5 V 9.8310426 c 0,-0.75743 -0.33553,-0.83538 -0.67106,-0.15592 z"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 158.85077,58.071103 v 17.04623"
+       id="path13986" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 160.43516,58.071103 v 17.04623"
+       id="path13986-4" />
+    <path
+       id="path1532-3-2"
+       style="fill:none;fill-opacity:0.972055;stroke:#ffffff;stroke-width:0.196908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.07203,111.87065 -12.44512,25.21666 -29.60135,4.30137 c -2.47398,0.3595 -3.15776,2.46402 -1.36755,4.20904 l 21.41961,20.87901 -5.05625,29.48128 c -0.42259,2.46398 1.36763,3.76462 3.58044,2.60128 l 26.47584,-13.91933 26.47636,13.91938 c 2.21281,1.16333 4.00299,-0.13736 3.58035,-2.60138 l -5.05669,-29.48123 21.41963,-20.87906 c 1.79017,-1.74498 1.10636,-3.84949 -1.36763,-4.20899 l -29.60129,-4.30137 -12.44513,-25.21669 c -1.1067,-2.24243 -2.2134,-1.98487 -2.2134,0.51512 v 48.54611 h -1.5844 l 1e-5,-48.54616 c -1e-5,-2.49996 -1.10673,-2.75748 -2.21343,-0.51504 z"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       id="path1532-3-1-7"
+       style="fill:none;fill-opacity:0.972055;stroke:#ff4343;stroke-width:0.173341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.94937,206.84127 -11.22018,22.72152 -30.58333,4.43398 c -0.74957,0.10881 -0.95676,0.74649 -0.41438,1.27537 l 22.13093,21.57951 -5.2304,30.45857 c -0.12808,0.74652 0.4144,1.14055 1.08495,0.78808 l 27.35865,-14.38161 27.35218,14.38678 c 0.67035,0.35259 1.2128,-0.0415 1.0849,-0.78816 l -5.22394,-30.46364 22.13508,-21.56733 c 0.54238,-0.52869 0.33508,-1.16632 -0.41459,-1.27527 l -30.58724,-4.4463 -11.2208,-22.73593 c -0.3352,-0.67922 -0.67042,-0.60064 -0.67042,0.15715 v 46.56634 l -4.91035,-3e-5 v -46.55311 c 0,-0.75743 -0.33553,-0.83538 -0.67106,-0.15592 z"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.28545,164.28174 v 17.04623"
+       id="path13986-0" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.86984,164.28174 v 17.04623"
+       id="path13986-4-9" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 50.940556,8.2128992 V 51.296427"
+       id="path13986-3"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 52.524955,8.2128992 V 51.296427"
+       id="path13986-4-0"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       id="path1532-6"
+       style="fill:none;fill-opacity:0.972055;stroke:#ffffff;stroke-width:0.196908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 52.465531,110.26469 39.2283,137.08625 9.6258694,141.38779 c -2.473438,0.35942 -3.156741,2.46379 -1.366599,4.20875 l 21.4197416,20.87914 -5.056667,29.48149 c -0.422769,2.46483 1.367449,3.76498 3.579792,2.60189 L 53.886836,185.05594 V 160.9308 h 1.584399 v 24.12514 l 25.684027,13.50256 c 2.212922,1.16336 4.002638,-0.13749 3.580003,-2.60188 l -5.056206,-29.48094 21.418531,-20.87796 c 1.79171,-1.74648 1.1076,-3.8506 -1.366118,-4.21004 L 70.129773,137.08625 56.892709,110.26504 c -1.107511,-2.24408 -3.320042,-2.24365 -4.427178,-2.7e-4 z"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 53.886834,114.49484 v 43.08353"
+       id="path13986-3-9"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       style="fill:none;stroke:#ffd600;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 55.471233,114.49484 v 43.08353"
+       id="path13986-4-0-1"
+       inkscape:export-filename="/HDExterno/Linux/Documents/KiCAD/pcb_challenge/path1532.png"
+       inkscape:export-xdpi="199.88815"
+       inkscape:export-ydpi="199.88815" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.223868,159.26783 h 4.910338"
+       id="path3976" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.62247,162.59479 4.91035,3e-5"
+       id="path4371" />
+  </g>
+</svg>
