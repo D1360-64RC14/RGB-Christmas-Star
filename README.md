@@ -11,6 +11,8 @@ Uma estrela de Natal 3D feita para ser colocada em cima da sua árvore de Natal.
 
 ## Lista de Materiais
 
+[Lista de Compras Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=6eb410d618)
+
 | Imagem | Material | Quantidade |
 |:------:|:--------:|:----------:|
 |<img height="64" src="images/WS2812B.jpg"></img>|[Adafruit WS2812B](https://br.mouser.com/ProductDetail/Adafruit/4684?qs=sGAEpiMZZMv0NwlthflBi8VlGLu%2FauqZ371fTYmjTRw%3D)|40|
