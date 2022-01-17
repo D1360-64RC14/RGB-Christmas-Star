@@ -2,7 +2,7 @@
 
 <img center src="images/3d.png"></img>
 
-Uma estrela de Natal 3D feita para ser colocada em cima da sua árvore de Natal. Brilhando com ajuda de 40 LEDs RGB [WS2812B](https://br.mouser.com/ProductDetail/Adafruit/4684?qs=sGAEpiMZZMv0NwlthflBi8VlGLu%2FauqZ371fTYmjTRw%3D) para levar os FPS de sua árvore para os céus, e um humilde [ESP-01](https://br.mouser.com/ProductDetail/SparkFun/WRL-17146?qs=sGAEpiMZZMv0NwlthflBi8Gp9XeNVzlnaVzjDrRsb4U%3D) em seu coração para trazer mais felicidade ao seu Natal.
+Uma estrela de Natal 3D de duas PCBs feita para ser colocada em cima da sua árvore de Natal. Brilhando com ajuda de 40 LEDs RGB [WS2812B](https://br.mouser.com/ProductDetail/Adafruit/4684?qs=sGAEpiMZZMv0NwlthflBi8VlGLu%2FauqZ371fTYmjTRw%3D) para levar os FPS de sua árvore para os céus, e um humilde [ESP-01](https://br.mouser.com/ProductDetail/SparkFun/WRL-17146?qs=sGAEpiMZZMv0NwlthflBi8Gp9XeNVzlnaVzjDrRsb4U%3D) em seu coração para trazer mais felicidade ao seu Natal.
 
 - Suporta uma tensão de 5V a 12V graças aos reguladores de tensão TLV1117;
 - A placa Master pode funcionar independentemente da placa Slave;
